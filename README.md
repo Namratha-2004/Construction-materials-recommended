@@ -166,13 +166,11 @@ The web-development portion was implemented by another team member, while my con
 
 ## 📷 Project Screenshots
 
-Example:
-
 ```markdown
-##1.[Project Homepage]
+## 1.Project Homepage
 <img width="1389" height="642" alt="webiste home page png" src="https://github.com/user-attachments/assets/0590d548-041e-4a22-bbf9-5c46c6349b88" />
 
-## 2.[Recommendation Output]
+## 2. Recommendation Output
 <img width="1389" height="642" alt="result" src="https://github.com/user-attachments/assets/0b0254e0-30cf-495a-9c09-c9b1db12a0a9" />
 
 ```
