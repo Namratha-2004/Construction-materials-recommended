@@ -169,7 +169,7 @@ The web-development portion was implemented by another team member, while my con
 Example:
 
 ```markdown
-![Project Homepage](images/homepage.png)
+![Project Homepage](material recommendation.png.PNG)
 
 ![Recommendation Output](images/recommendation.png)
 ```
