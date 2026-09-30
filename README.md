@@ -183,36 +183,13 @@ The system successfully demonstrates the use of data preprocessing and machine-l
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/construction-material-recommendation.git
-```
-
+git clone https://github.com/Namratha-2004/construction-material-recommendation.git
 ### 2. Navigate to the project directory
-
-```bash
-cd construction-material-recommendation
-```
-
-### 3. Install Python dependencies
-
-```bash
+cd construction-material-recommended
+### 3. Install Python dependencies 
 pip install -r requirements.txt
-```
-
-### 4. Run the machine-learning component
-
-```bash
-python <your_main_python_file>.py
-```
-
-### 5. Run the web application
-
-Follow the instructions provided in the web-application directory.
-
-> Update these commands according to your actual project structure before publishing the README.
-
----
+### 4. Run the machine-learning components
+python app.py
 
 ## 📁 Project Structure
 
