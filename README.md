@@ -131,11 +131,10 @@ The model development process included:
 5. Evaluating model performance
 6. Generating material recommendations
 
-**Algorithm(s) used:**
+**Algorithm(s):**
 
-* []
+ K-Nearest Neighbour ,Logistic Regression and Linear Regression.
 
-**Evaluation metric(s):**
 ## 📊 Model Evaluation
 
 The model was evaluated on a held-out test set comprising 20% of the dataset (2,000 samples).
@@ -183,9 +182,9 @@ The system successfully demonstrates the use of data preprocessing and machine-l
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
-git clone https://github.com/Namratha-2004/construction-material-recommendation.git
+git clone https://github.com/Namratha-2004/construction-material-recommended.git
 ### 2. Navigate to the project directory
-cd construction-material-recommended
+cd Construction-materials-recommended
 ### 3. Install Python dependencies 
 pip install -r requirements.txt
 ### 4. Run the machine-learning components
