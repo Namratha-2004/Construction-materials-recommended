@@ -274,10 +274,6 @@ Namratha reddy
 
 **Role:** Machine Learning & Data Processing
 
-**GitHub:** 
-
----
-
 ## ⭐ Acknowledgement
 
 This project was developed as a collaborative academic/team project. Each team member contributed to different components of the final system.
